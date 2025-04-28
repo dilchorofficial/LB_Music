@@ -23,7 +23,7 @@ BUTTONS = InlineKeyboardMarkup(
         [
             InlineKeyboardButton(
                 "๏ BRAND ๏",
-                url=f"https://t.me/learningbots79",
+                url=f"https://t.me/TEAM_CHOR",
             )
         ]
     ]
