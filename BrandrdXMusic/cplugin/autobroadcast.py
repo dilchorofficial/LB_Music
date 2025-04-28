@@ -37,7 +37,7 @@ MESSAGE = f"""**๏ ᴛʜɪs ɪs ᴀᴅᴠᴀɴᴄᴇᴅ ᴍᴜsɪᴄ ᴘʟᴀʏ
 
 🔐ᴜꜱᴇ » [/start](https://t.me/LB_Music_Bot?start=help) ᴛᴏ ᴄʜᴇᴄᴋ ʙᴏᴛ
 
-➲ ʙᴏᴛ :** @LB_Music_Bot"""
+➲ ʙᴏᴛ :** @Amitamusicbot"""
 
 BUTTON = InlineKeyboardMarkup(
     [
